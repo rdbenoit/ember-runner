@@ -3,13 +3,9 @@
 
 # Thumbnails
 ._*
-
 # Files that might appear on external disk
 .Spotlight-V100
 .Trashes
-
-
-
 ### Node
 lib-cov
 *.seed
@@ -19,10 +15,9 @@ lib-cov
 *.out
 *.pid
 *.gz
-
 pids
 logs
 results
-
 node_modules
 npm-debug.log
+/.idea/

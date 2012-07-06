@@ -14,7 +14,9 @@
     "mkdirp": ">= 0.2.2",
     "watch": ">= 0.5.0",
     "stylus": ">= 0.22.2",
-    "phantom": ">= 0.3.2"
+    "phantom": ">= 0.3.2",
+	"commander" : "1.0.x",
+	"nib" : "0.6.x"
   },
   "main": "ember-runner",
   "repository": "git://github.com/envone/ember-runner.git",
